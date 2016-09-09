@@ -21,10 +21,6 @@ public class IndexController {
     }
 
 
-    public static void main(String[] args) throws Exception {
-        SpringApplication.run(IndexController.class, args);
-    }
-
 
 }
 
